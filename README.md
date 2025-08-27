@@ -1,0 +1,2 @@
+# Classification-of-Fractured-Bones-using-Machine-Learning
+This project applies Random Forest on the MURA dataset to classify bones such as Chest, Elbow, Finger, Hand, Head, Shoulder, and Wrist. Features are extracted from images, data is split into training and testing sets, and the model is trained to identify bone type. The system achieves 84% accuracy, aiding in faster and reliable fracture detection.
